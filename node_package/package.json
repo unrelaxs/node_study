@@ -1,0 +1,4 @@
+{
+    "name": "createHtml",
+    "main": "./lib/main"
+}

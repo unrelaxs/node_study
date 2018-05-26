@@ -1,0 +1,6 @@
+#! /usr/bin/env node
+'use strict';
+const argv = require('argv');
+const echo = require('../lib/echo');
+const argv1 = argv.run();
+console.log(echo(argv1.targets.join(' ')));

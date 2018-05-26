@@ -1,0 +1,11 @@
+{
+  "name": "unrelaxs-node-echo",
+  "version": "1.0.4",
+  "main": "./lib/echo.js",
+  "dependencies": {
+    "argv": "0.0.2"
+  },
+  "bin": {
+    "node-echo": "./bin/node-echo"
+  }
+}
